@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace Logical_Programming
 {
@@ -8,8 +9,20 @@ namespace Logical_Programming
         {
             Console.WriteLine("Hello World!");
             //Fibonacci_Series.PrintingFibonacci();
-           // PerfectNumber.FindingPerfectNumber();
-            PrimeNumber.PrintThePrimeNum();
+            // PerfectNumber.FindingPerfectNumber();
+            // PrimeNumber.PrintThePrimeNum();
+            // ReverseNumber.DisplayNumber();
+            StopWatch.DisplayTime();
+
+
+
+            //Addition add = new Addition();
+            //add.Add();
+            //add.Sum();
+            //Console.WriteLine(add.num1);
+
+            //Addition add1 = new Addition(12); 
+            //Console.WriteLine(add1.num1);
         }
     }
 }

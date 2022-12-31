@@ -11,7 +11,7 @@ namespace Logical_Programming
             int n, i, sum;
             int min, max;
 
-            Console.WriteLine("Find the Perfect Number within a given number of range:\n");
+            Console.WriteLine("Find the Perfect Number within a given number of range ");
 
             Console.WriteLine("Input the Starting range of number :");
 
